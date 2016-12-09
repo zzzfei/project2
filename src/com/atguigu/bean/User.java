@@ -9,6 +9,12 @@ package com.atguigu.bean;
  */
 public class User {
 	
+	/**
+	 * main:(这里用一句话描述这个方法的作用)
+	 * @param args
+	 * @author shyBoy@fei
+	 * Date:2016年12月1日下午8:59:55 
+	 */
 	public static void main(String[] args) {
 		System.out.println("helloWorld");
 
